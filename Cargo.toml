@@ -3,7 +3,7 @@ name = "rust_ini"
 version = "0.9.4"
 authors = ["Y. T. Chung <zonyitoo@gmail.com>"]
 description = "An Ini configuration file parsing library in Rust"
-repository = "https://github.com/zonyitoo/rust-ini"
+repository = "https://github.com/xiaoaiwhc/rust_ini"
 keywords = ["ini", "configuration", "conf", "cfg"]
 license = "MIT"
 
